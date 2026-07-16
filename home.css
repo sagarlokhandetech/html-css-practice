@@ -1,0 +1,36 @@
+
+.container{
+    width:700px;
+    height:380px;
+    border:3px solid black;
+    border-radius:25px;
+    margin:auto;
+    padding-top:20px;
+}
+
+.green{
+    width:80px;
+    height:80px;
+    background:green;
+    border-radius:50%;
+    border:3px solid black;
+    margin:15px auto;
+}
+
+.yellow{
+    width:80px;
+    height:80px;
+    background:yellow;
+    border-radius:50%;
+    border:3px solid black;
+    margin:15px auto;
+}
+
+.red{
+    width:80px;
+    height:80px;
+    background:red;
+    border-radius:50%;
+    border:3px solid black;
+    margin:15px auto;
+}
